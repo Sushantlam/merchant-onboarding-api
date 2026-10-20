@@ -1,0 +1,1 @@
+CREATE DATABASE merchant_onboarding_test;
