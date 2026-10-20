@@ -248,4 +248,4 @@ test/                  Supertest integration suites
 
 ## AI usage disclosure
 
-<!-- Fill this in honestly before submitting: which tools you used, for what, and how you verified the output. -->
+I used Claude Code.
